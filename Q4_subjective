@@ -8,3 +8,9 @@ Ans: The trained model's t-SNE visualization is expected to show more separated 
 
 Q3. What all digits are commonly confused?
 Ans: 5 is most commomly confused among all
+
+Q4. Now, use the trained MLP to predict on the Fashion-MNIST dataset. What do you observe? 
+Ans: By comparing the t-SNE visualizations for the second layer of the MLP model between MNIST and Fashion-MNIST
+     datasets, we can observe the distribution and separation of different classes. We might also notice differences
+     in the clustering patterns between MNIST and Fashion-MNIST, reflecting the differences in the visual appearance 
+     and characteristics of the images in the two datasets.
