@@ -1,7 +1,10 @@
 Q1. Compare performance of MLP trained on MNIST dataset against RF and Logistic Regression model.
-Ans: The F1-score using Random Forest is 96%, F1-score using Logistic Regression is 90%, Accuracy using 
+Ans: The F1-score using Random Forest is 96%, F1-score using Logistic Regression is 89%, F1-score using 
      MLP is 95%.
 
-Q2.  Contrast this with the t-SNE for the same layer but for an untrained model. What do you conclude?
+Q2. Contrast this with the t-SNE for the same layer but for an untrained model. What do you conclude?
 Ans: The trained model's t-SNE visualization is expected to show more separated and distinct clusters 
      for different digits compared to the untrained model.
+
+Q3. What all digits are commonly confused?
+Ans: 5 is most commomly confused among all
