@@ -1,0 +1,4 @@
+Q1. Compare performance of MLP trained on MNIST dataset against RF and Logistic Regression model.
+Ans: The F1-score using Random Forest is 96%, F1-score using Logistic Regression is 90%, Accuracy using 
+     MLP is 95%.
+
